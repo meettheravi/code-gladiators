@@ -10,7 +10,7 @@ They went to a gift shop which consists of G number of gifts and now need your h
 Number of gifts available in the shop, G = 8
 Number of gifts to be bought, N = 3
 
-![img.png](img.png)
+![imgP2R1.png](../../../resource/imgP2R1.png)
 
 The minimum amount of money Chantu Bantu have to spend to buy 3 gifts = 10 + 20 + 30 = 60
 

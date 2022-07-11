@@ -1,4 +1,4 @@
-package codegladiators._2022;
+package codegladiators._2022.round.first.solution;
 
 import java.util.Arrays;
 import java.util.Scanner;
